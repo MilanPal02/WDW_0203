@@ -12,4 +12,16 @@
         <a href="#">Home</a> |
         <a href="#">Courses</a>
     </nav>
+    <main id="home">
+        <section>
+            <h2>Admission Open</h2>
+            <p>Apply before 30 November 2023.</p>
+        </section>
+    </main>
+    <p>Notice: Library closed Sunday.</p>
+    <footer>
+        <p>&copy; 2026 college</p>
+    </footer>
+</body>
+</html>
    
