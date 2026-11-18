@@ -22,6 +22,8 @@
     <footer>
         <p>&copy; 2026 college</p>
     </footer>
+    <!-- non-semantic elements -->
+    <p>div and span are non-semantic elements.</p>
 </body>
 </html>
    
