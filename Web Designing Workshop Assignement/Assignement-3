@@ -11,4 +11,10 @@
                 padding: 10px;
                 margin-bottom: 10px;
             }
+            .inline {
+                display: inline;
+                background-color: lightgreen;
+                padding: 5px;
+                margin-right: 5px;
+            }
           
